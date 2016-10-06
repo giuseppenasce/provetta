@@ -1,4 +1,9 @@
 //slkdjfslkdflsdf
 
 #include 
-main
+main {
+	
+	
+}
+
+function somma {}
